@@ -76,7 +76,7 @@ a {
 }
 
 header {
-  height: 65px;
+  height: 40px;
   width: 100%;
   background-color: rgba(34,49,52,0.9);
   position :fixed;
@@ -86,7 +86,7 @@ header {
 
 .logo {
   width: 124px;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .header-left {
