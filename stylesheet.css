@@ -188,7 +188,7 @@ footer p {
 
 footer {
   padding-top: 30px;
-  padding-bottom: 20px;
+  padding-bottom: px;
 }
 
 .menu-icon {
@@ -210,7 +210,7 @@ footer {
   }
 
   .lesson-wrapper {
-    height: 990px;
+    height: 400px;
   }
 
   footer {
