@@ -76,17 +76,17 @@ a {
 }
 
 header {
-  height: 40px;
+  height: 65px;
   width: 100%;
   background-color: rgba(34,49,52,0.9);
   position :fixed;
   top: 0;
-  z-index: 0;
+  z-index: 10;
 }
 
 .logo {
   width: 124px;
-  margin-top: 0px;
+  margin-top: 20px;
 }
 
 .header-left {
