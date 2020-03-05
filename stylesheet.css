@@ -112,7 +112,7 @@ header {
 }
 
 .lesson-wrapper {
-  height: 580px;
+  height: 200px;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -210,7 +210,7 @@ footer {
   }
 
   .lesson-wrapper {
-    height: 400px;
+    height: 200px;
   }
 
   footer {
@@ -262,7 +262,7 @@ footer {
   }
 
   .lesson-wrapper {
-    height: 800px;
+    height: 200px;
   }
 
   .message-wrapper .btn {
